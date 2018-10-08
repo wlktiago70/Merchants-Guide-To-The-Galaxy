@@ -1,0 +1,11 @@
+To compile the java source code you can run follwing command:
+javac br\com\vagas\desafios\MerchantsGuideToTheGalaxy\App.java
+javac br\com\vagas\desafios\MerchantsGuideToTheGalaxy\Interpreter.java
+javac br\com\vagas\desafios\MerchantsGuideToTheGalaxy\Context.java
+javac br\com\vagas\desafios\MerchantsGuideToTheGalaxy\RomanNumeral.java
+javac br\com\vagas\desafios\MerchantsGuideToTheGalaxy\Tests\UnitTest.java
+javac br\com\vagas\desafios\MerchantsGuideToTheGalaxy\Tests\UnitTestRunner.java
+
+To run the binary file you can run the following command, "[...].App" to execute the main aplication and "[...].UnitTestRunner" to execute the unit tests:
+java br.com.vagas.desafios.MerchantsGuideToTheGalaxy.App input.txt
+java br.com.vagas.desafios.MerchantsGuideToTheGalaxy.Tests.UnitTestRunner

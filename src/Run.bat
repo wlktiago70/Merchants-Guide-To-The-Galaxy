@@ -1,0 +1,1 @@
+java br.com.vagas.desafios.MerchantsGuideToTheGalaxy.App input.txt
